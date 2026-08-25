@@ -1,4 +1,3 @@
-[README.md]
 # Food-Gooder
 
 **An ultimate data visualization tool for food utilization in schools**
